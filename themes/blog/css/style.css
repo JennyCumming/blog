@@ -1,0 +1,139 @@
+/**
+ * Place your custom styles here.
+ */
+
+body {
+  background-color: #fff7f3;
+  margin-top: 0;
+}
+
+section, aside {
+  border-top: 1px solid #fff7f3;
+}
+
+.navbar.container {
+  max-width: 1240px
+}
+
+.navbar-header,
+.region-navigation {
+  width: 100%;
+}
+
+.region-header .logo {
+  text-align: center;
+  display: block;
+}
+
+.region-navigation nav {
+  display: block;
+  clear: both;
+}
+
+.navbar-default {
+  background-color: #ffffff;
+  border: none;
+}
+
+.path-frontpage .page-header {
+  display: none;
+}
+
+.main-container {
+  background-color: #ffffff;
+  padding-top: 20px;
+}
+
+.region-sidebar-second {
+  background: none;
+  border: none;
+  box-shadow: none;
+}
+
+.region-sidebar-second section {
+  padding-bottom: 30px;
+}
+
+.region-sidebar-second .btn-primary,
+.region-sidebar-second .btn-primary:hover {
+  background-color: #f768a1;
+  border-color: #f768a1;
+}
+
+
+
+a {
+  color: #f768a1;
+}
+
+a:hover {
+  color: #7a0177;
+}
+
+h1 {
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #e3e3e3;
+}
+
+.navbar-nav li a {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.region-sidebar-second h2 {
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #e3e3e3;
+}
+
+
+.page-node-type-article article footer {
+  text-align: center;
+}
+
+.page-node-type-article article footer span {
+  color: #f768a1;
+}
+
+.page-node-type-article article .content {
+  padding-top: 20px;
+}
+
+.page-node-type-article article .content .field--name-field-image {
+  padding-bottom: 20px;
+}
+
+.view-blog .views-row {
+  width: 100%;
+  border-bottom: 1px solid #fff7f3;
+  padding-bottom: 20px;
+}
+
+.view-blog h3 {
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.view-blog .views-field-created {
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+}
+
+.view-blog img {
+  padding: 10px 0;
+}
+
+.view-blog .btn {
+  border-color: #f768a1;
+  color: #f768a1;
+  display: block;
+  max-width:150px;
+  margin: 0 auto;
+}
+
+
