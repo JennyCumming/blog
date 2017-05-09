@@ -147,3 +147,9 @@ article .field--name-field-tags .field--item {
   padding-right: 10px
 }
 
+article section {
+  clear: both;
+  margin-top:50px;
+  display: block;
+}
+
