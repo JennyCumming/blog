@@ -94,6 +94,9 @@ h2 {
   border-bottom: 1px solid #e3e3e3;
 }
 
+article .region-content {
+  margin-top:30px;
+}
 
 .page-node-type-article article footer {
   text-align: center;
