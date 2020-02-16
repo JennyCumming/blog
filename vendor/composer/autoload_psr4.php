@@ -13,7 +13,9 @@ return array(
     'Wikimedia\\Composer\\' => array($vendorDir . '/wikimedia/composer-merge-plugin/src'),
     'Twig\\' => array($vendorDir . '/twig/twig/src'),
     'TYPO3\\PharStreamWrapper\\' => array($vendorDir . '/typo3/phar-stream-wrapper/src'),
+    'Symfony\\Polyfill\\Util\\' => array($vendorDir . '/symfony/polyfill-util'),
     'Symfony\\Polyfill\\Php70\\' => array($vendorDir . '/symfony/polyfill-php70'),
+    'Symfony\\Polyfill\\Php56\\' => array($vendorDir . '/symfony/polyfill-php56'),
     'Symfony\\Polyfill\\Mbstring\\' => array($vendorDir . '/symfony/polyfill-mbstring'),
     'Symfony\\Polyfill\\Iconv\\' => array($vendorDir . '/symfony/polyfill-iconv'),
     'Symfony\\Polyfill\\Ctype\\' => array($vendorDir . '/symfony/polyfill-ctype'),
@@ -69,5 +71,6 @@ return array(
     'Doctrine\\Common\\' => array($vendorDir . '/doctrine/common/lib/Doctrine/Common'),
     'Composer\\Semver\\' => array($vendorDir . '/composer/semver/src'),
     'Composer\\Installers\\' => array($vendorDir . '/composer/installers/src/Composer/Installers'),
+    'Brumann\\Polyfill\\' => array($vendorDir . '/brumann/polyfill-unserialize/src'),
     'Asm89\\Stack\\' => array($vendorDir . '/asm89/stack-cors/src/Asm89/Stack'),
 );
