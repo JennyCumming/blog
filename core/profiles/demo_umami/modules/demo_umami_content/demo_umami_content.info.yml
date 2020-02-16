@@ -4,6 +4,7 @@ type: module
 # version: VERSION
 core: 8.x
 package: 'Core (Experimental)'
+hidden: true
 dependencies:
   - field
   - file
@@ -15,7 +16,7 @@ dependencies:
   - text
   - user
 
-# Information added by Drupal.org packaging script on 2019-11-13
-version: '8.6.18'
+# Information added by Drupal.org packaging script on 2019-12-18
+version: '8.7.11'
 project: 'drupal'
-datestamp: 1573688174
+datestamp: 1576696282

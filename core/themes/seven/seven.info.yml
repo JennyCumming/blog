@@ -31,7 +31,7 @@ libraries-override:
   core/drupal.vertical-tabs:
     css:
       component:
-        misc/vertical-tabs.css: false
+        /core/themes/stable/css/core/vertical-tabs.css: false
   core/jquery.ui:
     css:
       theme:
@@ -71,7 +71,7 @@ regions:
 regions_hidden:
   - sidebar_first
 
-# Information added by Drupal.org packaging script on 2019-11-13
-version: '8.6.18'
+# Information added by Drupal.org packaging script on 2019-12-18
+version: '8.7.11'
 project: 'drupal'
-datestamp: 1573688174
+datestamp: 1576696282

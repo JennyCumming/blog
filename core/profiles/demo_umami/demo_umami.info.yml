@@ -14,6 +14,8 @@ install:
   - config
   - contextual
   - contact
+  - layout_builder
+  - layout_discovery
   - menu_link_content
   - datetime
   - block_content
@@ -42,11 +44,17 @@ install:
   - responsive_image
   - content_moderation
   - workflows
+  - language
+  - locale
+  - config_translation
+  - content_translation
+  - demo_umami_tour
 themes:
   - seven
   - umami
+keep_english: true
 
-# Information added by Drupal.org packaging script on 2019-11-13
-version: '8.6.18'
+# Information added by Drupal.org packaging script on 2019-12-18
+version: '8.7.11'
 project: 'drupal'
-datestamp: 1573688174
+datestamp: 1576696282
